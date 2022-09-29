@@ -5,7 +5,8 @@ function Compliments() {
     return (
         <section id="compliments">
             <h1>With Best Compliments From:</h1>
-            <h5>K. Basheer Ahmed Sahab's Family</h5>
+            <h5>K. Basheer Ahmed Sahab's Family,</h5>
+            <h5>K. Ali Ashrafi,</h5>
             <h5>Near & Dear - Realatives & Friends.</h5>
         </section>
     );

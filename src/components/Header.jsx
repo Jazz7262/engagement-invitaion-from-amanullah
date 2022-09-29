@@ -25,7 +25,13 @@ function Header() {
                 <br />
                 Qutub-e-Adoni Qutub-ud-Dawaayir Ashraf-ul-Ma'aasir
                 Sayyid-e-Barhaq Hazrath Sayyid Shah Taher Quadri, Al-Hamavi
-                Rahamatullaahi Alaih.
+                Rahamatullaahi Alaih, Adoni.
+            </h4>
+            <h4 className="mt-4">
+                Under the guidance of Peer-O-Murshid:
+                <br />
+                Huzur Shaikh-ul-Islam Hazrath Sayyid Muhammad Madani Ashrafi
+                Al-Jilani Damat Barkatuhu Quddusiyah, Kichhauchha Shareef.
             </h4>
         </section>
     );
